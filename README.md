@@ -1,3 +1,12 @@
+<p align="center">
+  <img src="YOUR_IMAGE_LINK" width="220">
+</p>
+
+<h1 align="center">Dr. Muhammad Bello Abdurrashid Tajaye</h1>
+
+<p align="center">
+PhD in Islamic Studies | Lecturer | Researcher | Author
+</p>
 # Dr. Muhammad Bello Abdurrashid Tajaye
 
 ## About Me
