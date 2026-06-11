@@ -9,8 +9,6 @@ Dr. Muhammad Bello Abdurrashid Tajaye
 <p align="center">
 PhD in Islamic Studies | Lecturer | Researcher | Author
 </p>
-# Dr. Muhammad Bello Abdurrashid Tajaye
-
 ## About Me
 PhD in Islamic Studies (UDUS)
 Lecturer | Researcher | Author | Da'wah Worker
