@@ -1,8 +1,10 @@
 <p align="center">
-  <img src="YOUR_IMAGE_LINK" width="220">
+  <img src="https://raw.githubusercontent.com/Tajaye77/dr-tajaye-academic-portfolio/main/tajaye.jpg" width="220">
 </p>
 
-<h1 align="center">Dr. Muhammad Bello Abdurrashid Tajaye</h1>
+<h1 align="center">
+Dr. Muhammad Bello Abdurrashid Tajaye
+</h1>
 
 <p align="center">
 PhD in Islamic Studies | Lecturer | Researcher | Author
